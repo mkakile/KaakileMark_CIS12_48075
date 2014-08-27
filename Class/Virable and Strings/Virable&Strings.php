@@ -26,5 +26,5 @@ echo"<p>Hours Worked = $hours (hrs)</p>";
 echo '<p>Pay rate = $ payrate </p>';
 echo "Paycheck = $".$grossPay.'</p>';
 ?>
-</body>
+</body> 
 </html>
