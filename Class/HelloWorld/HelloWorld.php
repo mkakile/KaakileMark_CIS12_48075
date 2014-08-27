@@ -6,7 +6,9 @@
 </head>
 
 <body>
-<1h> Hello World </h1>
-<?php phpinfo ; () ?>
+
+<?php
+echo"<h1> Hello World </h1>"
+?>
 </body>
 </html>
