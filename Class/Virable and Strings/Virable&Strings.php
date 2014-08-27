@@ -20,10 +20,10 @@ pupse: Comments/Strings and Variables
 $hours=40; //hours workerd
 $payRate=9;//hour
 //calculate the paycheck
-$grossPay=$hours*$payrate;
+$grossPay=$hours*$payRate;
 //Output the result
 echo"<p>Hours Worked = $hours (hrs)</p>";
-echo '<p>Pay rate = $ payrate </p>';
+echo '<p>Pay rate = $$payRate </p>';
 echo "Paycheck = $".$grossPay.'</p>';
 ?>
 </body> 
